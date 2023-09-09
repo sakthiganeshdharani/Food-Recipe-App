@@ -1,0 +1,24 @@
+{
+  "food": [
+    {
+      "title": "Onion Dosa",
+      "fd": "Ingredients:\n1.Dosa batter\n2.Chopped onions, green chilies, and coriander leaves\n3.Salt\n4.Oil.\n\nInstructions:\n1.Heat a griddle.\n2.Pour dosa batter, spread thin.\n3.Add onion mixture, drizzle oil.\n4.Cook until crispy.\n5.Serve hot with chutney.",
+      "id": 5
+    },
+    {
+      "title": "Oreo Cake",
+      "fd": "Ingredients:\n1.Oreo cookies\n2.Milk\n3.Baking powder\n4.Sugar\n5.Butter\n6.Vanilla extract\n7.Whipped cream (optional)\n\nInstructions:\n1.Crush Oreos, mix with milk and baking powder for batter.\n2.Cream sugar, butter, add batter, vanilla.\n3.Bake at 350°F (180°C) for 30-40 mins.\n4.Cool, frost with whipped cream, and decorate with Oreos.\n5.Slice and serve. Enjoy your Oreo Cake!",
+      "id": 7
+    },
+    {
+      "fd": "Ingredients:\n1.Rice\n2.Protein (chicken, vegetables)\n3.Spices (cinnamon, cardamom, cloves)\n4.Onions, tomatoes, ginger-garlic paste\n5.Yogurt\n6.Ghee/oil\n7.Salt\nInstructions:\n1.Saute spices, onions.\n2.Add ginger-garlic paste, tomatoes.\n3.Mix in protein, yogurt, spices.\n4.Layer with rice.\n5.Seal, cook until rice is done.\n6.Serve with raita or salad.\nEnjoy your Biryani!",
+      "title": "Biriyani",
+      "id": 8
+    },
+    {
+      "fd": "jmghjgjhv",
+      "title": "hgfhft",
+      "id": 9
+    }
+  ]
+}

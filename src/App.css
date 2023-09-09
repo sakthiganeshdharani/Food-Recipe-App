@@ -1,0 +1,193 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* CSS file named "formStyles.css" */
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin: 20px auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+/* Additional styles for form elements within the container */
+.form-container label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.form-container input,
+.form-container textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-container button[type="submit"] {
+  width: auto;
+}
+.card-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.cart-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.card-container {
+  width: 80%;
+  margin: 0 auto;
+  background-image: url(Blur.png);
+}
+
+.card {
+  border: 1px solid #000000;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  width:50%;
+  display: flex;
+  justify-content: center;
+}
+.recipe-box {
+  height: fit-content;
+  color: #000000;
+  background-color: #ffffff30;
+  justify-items: center;
+}
+
+.card-title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-content {
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  white-space: pre-wrap;
+  white-space: pre-line;
+  text-align: left;
+}
+
+.card-buttons {
+  margin-top: 1rem;
+}
+
+.btn {
+  margin-right: 1rem;
+}
+.edit-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.edit-button > * {
+  margin: 0 0.5rem;
+}
+.edit-text-box {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.edit-text-box input {
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+h1{
+  color: #ffffff;
+}
+.form-container {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  background-image: url(Blur.png);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  border: #000000;
+  background-color: #dedede5b;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #dedede5b;
+}
+
+textarea {
+  height: 200px;
+}
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-success {
+  background-color: #45a049;
+}
